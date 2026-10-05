@@ -56,11 +56,11 @@ Resultado esperado:
 
 ### Aplicativo
 
-![Aplicativo funcionando](app/app.png)
+![Aplicativo funcionando](app.png)
 
 ### Logcat
 
-![Logcat](app/logcat.png)
+![Logcat](logcat.png)
 
 ## Como executar
 
